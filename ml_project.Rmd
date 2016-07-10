@@ -2,7 +2,11 @@
 title: "ML Predictions of Weight Lifting Exercises (Via Wearables)"
 author: "Wesley Small (smallwesley)"
 date: "July 9, 2016"
-output: html_document
+output: 
+  html_document: 
+    fig_height: 4
+    fig_width: 5
+    self_contained: no
 ---
 
 ## Executive Summary
