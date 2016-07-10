@@ -2,7 +2,7 @@
 
 Coursera Machine Learning Course, June-July 2016.
 
-1. [ML Project HTML](ml_project.html)
+1. [ML Project HTML](https://smallwesley.github.io/machine-learning-project/ml_project.html)
 2. [ML Project RMD](ml_project.Rmd)
 
 * * *
